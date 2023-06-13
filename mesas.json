@@ -1,0 +1,59 @@
+{
+  "Mesas": [
+    {
+      "id": 1,
+      "numMesa": 1,
+      "Capacidad": 5,
+      "Ocupada": 0,
+      "Mozo": {
+        "Nombre": "Juan",
+        "Apellido": "Pedro"
+      },
+      "Pedido": ""
+            
+    },
+    {
+      "id": 2,
+      "numMesa": 2,
+      "Capacidad": 8,
+      "Ocupada": 1,
+      "Mozo": {
+        "Nombre": "Juan",
+        "Apellido": "Pedro"
+      },
+      "Pedido": {
+        "Platos": [{
+          "Codigo": 1022,          
+          "Nombre": "Fideos con tuco",
+          "Descripcion": "Tallarines con albondigas de carne",
+          "Precio": 12000
+        }]}
+
+    },             
+    {
+      "id": 3,
+      "numMesa": 3,
+      "Capacidad": 2,
+      "Ocupada": 0,
+      "Mozo": {
+        "Nombre": "Juan",
+        "Apellido": "Pedro"
+      },
+      "Pedido": ""
+            
+    },
+    {
+      "id": 4,
+      "numMesa": 4,
+      "Capacidad": 4,
+      "Ocupada": 0,
+      "Mozo": {
+        "Nombre": "Juan",
+        "Apellido": "Pedro"
+      },
+      "Pedido": ""
+            
+    }
+    
+  ]
+}
