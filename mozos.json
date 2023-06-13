@@ -1,9 +1,10 @@
 [
-  {	
+  {
     "nombre": "",
     "apellido": "",
     "id": 1,
-    "contadorDeVisitas": 1++,
+    "salario": 100.2,
+    "propina": 100,
   },
   {
 

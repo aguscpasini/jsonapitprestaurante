@@ -1,0 +1,26 @@
+[
+  {	
+    "numMesa": 1,
+    "numeroDeMesa": 1,
+    "capacidad": 2,
+    "ocupada": true/false,
+    "mozo": 	{
+   		"nombre": "",
+    		"apellido": "",
+  		"id": 1,
+   		"salario": 100.2,
+    		"propina": 100,
+ 		}
+    "pedido":   {
+		"listaPlatos": LinkedListPlatos,
+		}
+    "propina": 100,1,
+  },
+  {
+
+
+
+
+
+  },
+]
