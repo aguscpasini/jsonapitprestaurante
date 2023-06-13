@@ -1,0 +1,14 @@
+[
+  {
+    "codigo": 11,12...21,22...31,32...41,42,
+    "nombre": "",
+    "descripcion": "",
+    "precio": 1000,
+    "tipoComida": "enum(ENTRADA,PRINCIPAL,BEBIDA,POSTRE)"
+  },
+  {
+
+
+
+  },
+]
