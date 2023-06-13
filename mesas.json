@@ -3,7 +3,7 @@
     {
       "id": 1,
       "numMesa": 1,
-      "Capacidad": 5,
+      "Capacidad": 4,
       "Ocupada": 0,
       "Mozo": {
         "Nombre": "Juan",
