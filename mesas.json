@@ -7,8 +7,9 @@
         "nombre": "Juan",
         "apellido": "Pedro"
       },
-      "pedido": ""
-            
+      "pedido": {
+        "platos": [{
+        }]}                
     },
     {      
       "numMesa": 2,
@@ -35,7 +36,9 @@
         "nombre": "Juan",
         "apellido": "Pedro"
       },
-      "pedido": ""
+      "pedido": {
+        "platos": [{
+        }]}
             
     },
     {
@@ -47,7 +50,9 @@
         "nombre": "Juan",
         "apellido": "Pedro"
       },
-      "pedido": ""
+      "pedido": {
+        "platos": [{
+        }]}
             
     }
     
