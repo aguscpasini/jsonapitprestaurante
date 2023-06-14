@@ -9,6 +9,10 @@
       },
       "pedido": {
         "platos": [{
+          "codigo": 1022,          
+          "nombre": "Fideos con tuco",
+          "descripcion": "Tallarines con albondigas de carne",
+          "precio": 12000
         }]}                
     },
     {      
@@ -38,11 +42,14 @@
       },
       "pedido": {
         "platos": [{
+          "codigo": 1022,          
+          "nombre": "Fideos con tuco",
+          "descripcion": "Tallarines con albondigas de carne",
+          "precio": 12000
         }]}
             
     },
-    {
-      "id": 4,
+    {      
       "numMesa": 4,
       "capacidad": 4,
       "ocupada": false,
@@ -52,6 +59,10 @@
       },
       "pedido": {
         "platos": [{
+          "codigo": 1022,          
+          "nombre": "Fideos con tuco",
+          "descripcion": "Tallarines con albondigas de carne",
+          "precio": 12000
         }]}
             
     }
