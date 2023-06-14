@@ -1,56 +1,53 @@
  [
-    {
-      "id": 1,
+    {     
       "numMesa": 1,
-      "Capacidad": 4,
-      "Ocupada": 0,
-      "Mozo": {
-        "Nombre": "Juan",
-        "Apellido": "Pedro"
+      "capacidad": 4,
+      "ocupada": 0,
+      "mozo": {
+        "nombre": "Juan",
+        "apellido": "Pedro"
       },
-      "Pedido": ""
+      "pedido": ""
             
     },
-    {
-      "id": 2,
+    {      
       "numMesa": 2,
-      "Capacidad": 8,
-      "Ocupada": 1,
-      "Mozo": {
-        "Nombre": "Juan",
-        "Apellido": "Pedro"
+      "capacidad": 8,
+      "ocupada": 1,
+      "mozo": {
+        "nombre": "Juan",
+        "apellido": "Pedro"
       },
-      "Pedido": {
-        "Platos": [{
-          "Codigo": 1022,          
-          "Nombre": "Fideos con tuco",
-          "Descripcion": "Tallarines con albondigas de carne",
-          "Precio": 12000
+      "pedido": {
+        "platos": [{
+          "codigo": 1022,          
+          "nombre": "Fideos con tuco",
+          "descripcion": "Tallarines con albondigas de carne",
+          "precio": 12000
         }]}
 
     },             
-    {
-      "id": 3,
+    {      
       "numMesa": 3,
-      "Capacidad": 2,
-      "Ocupada": 0,
-      "Mozo": {
-        "Nombre": "Juan",
-        "Apellido": "Pedro"
+      "capacidad": 2,
+      "ocupada": 0,
+      "mozo": {
+        "nombre": "Juan",
+        "apellido": "Pedro"
       },
-      "Pedido": ""
+      "pedido": ""
             
     },
     {
       "id": 4,
       "numMesa": 4,
-      "Capacidad": 4,
-      "Ocupada": 0,
-      "Mozo": {
-        "Nombre": "Juan",
-        "Apellido": "Pedro"
+      "capacidad": 4,
+      "ocupada": 0,
+      "mozo": {
+        "nombre": "Juan",
+        "apellido": "Pedro"
       },
-      "Pedido": ""
+      "pedido": ""
             
     }
     
