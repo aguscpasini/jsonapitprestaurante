@@ -2,7 +2,7 @@
     {     
       "numMesa": 1,
       "capacidad": 4,
-      "ocupada": 0,
+      "ocupada": false,
       "mozo": {
         "nombre": "Juan",
         "apellido": "Pedro"
@@ -13,7 +13,7 @@
     {      
       "numMesa": 2,
       "capacidad": 8,
-      "ocupada": 1,
+      "ocupada": true,
       "mozo": {
         "nombre": "Juan",
         "apellido": "Pedro"
@@ -30,7 +30,7 @@
     {      
       "numMesa": 3,
       "capacidad": 2,
-      "ocupada": 0,
+      "ocupada": false,
       "mozo": {
         "nombre": "Juan",
         "apellido": "Pedro"
@@ -42,7 +42,7 @@
       "id": 4,
       "numMesa": 4,
       "capacidad": 4,
-      "ocupada": 0,
+      "ocupada": false,
       "mozo": {
         "nombre": "Juan",
         "apellido": "Pedro"
