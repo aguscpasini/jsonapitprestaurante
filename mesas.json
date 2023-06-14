@@ -8,7 +8,7 @@
         "apellido": "Pedro"
       },
       "pedido": {
-        "platos": [{
+        "listPlatos": [{
           "codigo": 1022,          
           "nombre": "Fideos con tuco",
           "descripcion": "Tallarines con albondigas de carne",
@@ -24,7 +24,7 @@
         "apellido": "Pedro"
       },
       "pedido": {
-        "platos": [{
+        "listPlatos": [{
           "codigo": 1022,          
           "nombre": "Fideos con tuco",
           "descripcion": "Tallarines con albondigas de carne",
@@ -41,7 +41,7 @@
         "apellido": "Pedro"
       },
       "pedido": {
-        "platos": [{
+        "listPlatos": [{
           "codigo": 1022,          
           "nombre": "Fideos con tuco",
           "descripcion": "Tallarines con albondigas de carne",
@@ -58,7 +58,7 @@
         "apellido": "Pedro"
       },
       "pedido": {
-        "platos": [{
+        "listPlatos": [{
           "codigo": 1022,          
           "nombre": "Fideos con tuco",
           "descripcion": "Tallarines con albondigas de carne",
