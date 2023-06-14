@@ -13,6 +13,12 @@
           "nombre": "Fideos con tuco",
           "descripcion": "Tallarines con albondigas de carne",
           "precio": 12000
+        },
+        {
+          "codigo": 1023,          
+          "nombre": "Arroz con pollo",
+          "descripcion": "Guiso de arroz con pollo",
+          "precio": 24000
         }]}                
     },
     {      
