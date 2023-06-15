@@ -1,24 +1,24 @@
 [
   {
-    "nombre": "Agustin",
-    "apellido": "Ledesma",
-    "id": 1,
-    "salario": 125000.3,
-    "propina": 0,
+ 	"id": 1,   
+	"nombre": "Agustin",
+    	"apellido": "Ledesma",
+    	"salario": 125000.3,
+    	"propina": 0,
   },
   {
-    "nombre": "Agustin",
-    "apellido": "Correa Pasini",
-    "id": 2,
-    "salario": 125000.3,
-    "propina": 0,
+	"id": 2, 
+   	"nombre": "Agustin",
+   	"apellido": "Correa Pasini",
+   	"salario": 125000.3,
+   	"propina": 0,
 
   },
   {
-    "nombre": "Juan",
-    "apellido": "Garcia",
-    "id": 3,
-    "salario": 125000.3,
-    "propina": 0,
+	"id": 3,
+    	"nombre": "Juan",
+    	"apellido": "Garcia", 
+   	"salario": 125000.3,
+    	"propina": 0,
   }
 ]
