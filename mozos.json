@@ -1,14 +1,23 @@
 [
   {
-    "nombre": "",
-    "apellido": "",
+    "nombre": "Agustin",
+    "apellido": "Ledesma",
     "id": 1,
-    "salario": 100.2,
-    "propina": 100,
+    "salario": 125000.3,
+    "propina": 0,
   },
   {
+    "nombre": "Agustin",
+    "apellido": "Correa Pasini",
+    "id": 2,
+    "salario": 125000.3,
+    "propina": 0,
 
-
-
+  },
+    "nombre": "Juan",
+    "apellido": "Garcia",
+    "id": 3,
+    "salario": 125000.3,
+    "propina": 0,
   },
 ]
