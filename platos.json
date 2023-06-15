@@ -1,52 +1,53 @@
-[{
+[
+   "11": {
         "codigo": 11,
         "nombre": "Picada",
         "descripcion": "Entrada para tres personas.Variedad de quesos y salames, acompañado de rodajas de pan casero",
         "precio": 1500,
         "tipo": "ENTRADA"
-    }, {
+    },"12": {
         "codigo": 12,
         "nombre": "Empanadas",
         "descripcion": "Surtido de empanadas de copetin. Variedad de carne, JyQ y pollo",
         "precio": 1150,
         "tipo": "ENTRADA"
-    }, {
+    },"21" :{
         "codigo": 21,
         "nombre": "Arroz con pollo",
         "descripcion": "Guiso de arroz con pollo",
         "precio": 2000,
 		"tipo": "ENTRADA"
-    }, {
+    }, "22":{
         "codigo": 22,
         "nombre": "Parrillada",
         "descripcion": "Parrillada para dos personas,incluye morcilla, chorizo, chinchulines,vacio,costillitas y ojo de bife.",
         "precio": 5000,
         "tipo": "PRINCIPAL"
-    }, {
+    }, "23":{
         "codigo": 23,
         "nombre": "Fideos con tuco",
         "descripcion": "Fideos cocidos al dente y servidos con una salsa de tomate casera",
         "precio": 2000,
         "tipo": "PRINCIPAL"
-    }, {
+    }, "31":{
         "codigo": 31,
         "nombre": "Flan casero",
         "descripcion": "Flan de la casa, con dulce de leche y/o crema",
         "precio": 1000,
         "tipo": "POSTRE"
-    }, {
+    },"32": {
         "codigo": 32,
         "nombre": "Helado",
         "descripcion": "Tres bochas de helado a eleccion, preguntar disponibilidad de sabores",
         "precio": 1500,
         "tipo": "POSTRE"
-    }, {
+    }, "41":{
         "codigo": 41,
         "nombre": "Vino Malbec Estancia Mendoza",
         "descripcion": "Calido,suave y dulce. Con taninos que no son agresivos",
         "precio": 1500,
         "tipo": "BEBIDA"
-    }, {
+    },"42": {
         "codigo": 42,
         "nombre": "Coca-Cola",
         "descripcion": "Bien fria",
