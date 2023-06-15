@@ -14,10 +14,11 @@
     "propina": 0,
 
   },
+  {
     "nombre": "Juan",
     "apellido": "Garcia",
     "id": 3,
     "salario": 125000.3,
     "propina": 0,
-  },
+  }
 ]
