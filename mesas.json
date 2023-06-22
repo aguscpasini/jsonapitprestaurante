@@ -2,7 +2,7 @@
     {     
       "numMesa": 1,
       "capacidad": 4,
-      "ocupada": false,
+      "ocupada": true,
       "mozo": {
         "nombre": "Juan",
         "apellido": "Pedro"
@@ -24,23 +24,13 @@
     {      
       "numMesa": 2,
       "capacidad": 8,
-      "ocupada": true,
+      "ocupada": false,
       "mozo": {
         "nombre": "Juan",
         "apellido": "Pedro"
       },
       "pedido": {
         "listPlatos": [{
-          "codigo": 1022,          
-          "nombre": "Fideos con tuco",
-          "descripcion": "Tallarines con albondigas de carne",
-          "precio": 12000
-        }, 
-        {
-          "codigo": 1023,          
-          "nombre": "Arroz con pollo",
-          "descripcion": "Guiso de arroz con pollo",
-          "precio": 24000
         }]}
 
     },             
@@ -53,11 +43,7 @@
         "apellido": "Pedro"
       },
       "pedido": {
-        "listPlatos": [{
-          "codigo": 1022,          
-          "nombre": "Fideos con tuco",
-          "descripcion": "Tallarines con albondigas de carne",
-          "precio": 12000
+        "listPlatos": [{         
         }]}
             
     },
@@ -71,10 +57,6 @@
       },
       "pedido": {
         "listPlatos": [{
-          "codigo": 1022,          
-          "nombre": "Fideos con tuco",
-          "descripcion": "Tallarines con albondigas de carne",
-          "precio": 12000
         }]}
             
     }
