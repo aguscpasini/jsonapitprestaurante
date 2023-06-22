@@ -4,7 +4,7 @@
       "capacidad": 4,
       "ocupada": true,
       "mozo": {
-        "nombre": "Juan",
+        "nombre": "Agustin Ledesma",
         "apellido": "Pedro"
       },
       "pedido": {
@@ -26,8 +26,8 @@
       "capacidad": 8,
       "ocupada": false,
       "mozo": {
-        "nombre": "Juan",
-        "apellido": "Pedro"
+        "nombre": "Agustin",
+        "apellido": "Correa Pasini"
       },
       "pedido": {
         "listPlatos": [{
@@ -40,7 +40,7 @@
       "ocupada": false,
       "mozo": {
         "nombre": "Juan",
-        "apellido": "Pedro"
+        "apellido": "Garcia"
       },
       "pedido": {
         "listPlatos": [{         
@@ -53,7 +53,7 @@
       "ocupada": false,
       "mozo": {
         "nombre": "Juan",
-        "apellido": "Pedro"
+        "apellido": "Garcia"
       },
       "pedido": {
         "listPlatos": [{
